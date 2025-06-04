@@ -9,3 +9,5 @@ Today is my second day of practicing git & githup, I hope I will kick their asse
 Today is my second day of practicing git & githup, I hope I will kick their asses🤣.
 -------------------------------------------------------------------------------
 Today I am feeling confident about Git & GitHub thanks to ALLAH.
+
+Checking before committing the changing.  -_-
